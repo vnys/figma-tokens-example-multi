@@ -1,0 +1,46 @@
+{
+  "theme": {
+    "bg": {
+      "default": {
+        "value": "{_colors.black}",
+        "type": "color"
+      },
+      "subtle": {
+        "value": "{_colors.grey.900}",
+        "type": "color"
+      },
+      "muted": {
+        "value": "{_colors.grey.600}",
+        "type": "color"
+      }
+    },
+    "fg": {
+      "default": {
+        "value": "{_colors.white}",
+        "type": "color"
+      },
+      "onAccent": {
+        "value": "{_colors.white}",
+        "type": "color"
+      },
+      "muted": {
+        "value": "{_colors.grey.200}",
+        "type": "color"
+      },
+      "subtle": {
+        "value": "{_colors.grey.500}",
+        "type": "color"
+      }
+    },
+    "accent": {
+      "default": {
+        "value": "{_colors.blue.500}",
+        "type": "color"
+      },
+      "subtle": {
+        "value": "{_colors.blue.950}",
+        "type": "color"
+      }
+    }
+  }
+}
